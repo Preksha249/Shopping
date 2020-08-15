@@ -11,3 +11,6 @@ User can search for needed items, select and add to cart.
 3. The cart can be emptied in a single action.
 4. Certain parts of the data should be updated when items are added/removed such as subtotal, quantity etc.
 5. Displays the item in the cart and simulatneously calculates the total amount and prints the bill.
+
+
+Can be run in any IDE that supports C. 
